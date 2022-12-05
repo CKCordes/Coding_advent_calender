@@ -1,0 +1,1 @@
+std::cout << "\nCommon found: " << bag2[i];
